@@ -35,19 +35,6 @@ two plants, another file is shown in the repo with the system architecture
 
 Upload the code contained in this sketch on to your board
 
-=== Folder structure
-
-....
- sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
-  ├── layout.png          => (optional) an image of the layout
-  └── ReadMe.adoc         => this file
-....
-
-
-=== Contributing
-To contribute to this project please contact: 
 
 === BOM
 Bill of Materials:
